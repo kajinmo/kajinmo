@@ -16,7 +16,7 @@ I’m currently learning Python and Machine Learning to collaborate on data scie
 
  
 * Master in Business Administration (MBA) in Data Science and Analytics from Universidade de São Paulo (USP).
-* Degree (BS) in Science & Technology from Universidade Federal do ABC (UFABC).
+* Bachelor's Degree in Science & Technology from Universidade Federal do ABC (UFABC).
 
 <br>
 <br>
