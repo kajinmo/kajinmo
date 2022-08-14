@@ -10,7 +10,7 @@
 
 ## Welcome to my profile!
 
-I'm Data Analyst at OLX Brazil since Aug/2020. I create dashboards and provide analytical information to key management people, seeking to drive and improve decision making and business performance.
+I'm Data Analyst at Itau Unibanco since Mar/2022. I clean and transform data, create dashboards and provide analytical information to key management people, seeking to drive and improve decision making and business performance.
 
 I’m currently learning Python and Machine Learning to collaborate on data science projects.
 
