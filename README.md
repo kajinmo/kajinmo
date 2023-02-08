@@ -12,7 +12,7 @@
 
 I'm Data Analyst since aug/2020. I clean and transform data, create dashboards and provide analytical information to key management people, seeking to drive and improve decision making and business performance.
 
-I’m currently learning Python, Data Engineering and Machine Learning to collaborate on data science projects.
+I’m currently learning Python, Data Engineering and Machine Learning to collaborate on advanced data projects.
 
  
 * Master in Business Administration (MBA) in Data Science and Analytics from Universidade de São Paulo (USP).
