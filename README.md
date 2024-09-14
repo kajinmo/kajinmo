@@ -10,11 +10,9 @@
 
 ## Welcome to my profile!
 
-I'm Data Analyst since aug/2020. I clean and transform data, create dashboards and provide analytical information to key management people, seeking to drive and improve decision making and business performance.
+Data professional with experience since 2020, currently specializing in data engineering.
+ChatGPT tells me that I'm passionate about transforming raw data into actionable insights, optimizing data workflows, and that I love working with business colleagues.
 
-I’m currently learning Python, Data Engineering and Machine Learning to collaborate on advanced data projects.
-
- 
 * Master in Business Administration (MBA) in Data Science and Analytics from Universidade de São Paulo (USP).
 * Bachelor's Degree in Science & Technology from Universidade Federal do ABC (UFABC).
 
