@@ -10,10 +10,10 @@
 
 ## Welcome to my profile!
 
-Working with data since 2020. I have done some data science projects but am currently specializing in data engineering.
+I have been working with data since 2020. While I have completed some data science projects, I am currently specializing in data engineering.
 <br>
 <br>
-ChatGPT told me that I'm passionate about transforming raw data into actionable insights, optimizing data workflows, and that I love working with business colleagues.
+ChatGPT once told me that I’m passionate about transforming raw data into actionable insights, optimizing data workflows, and that I love collaborating with business colleagues.
 <br>
 <br>
 
